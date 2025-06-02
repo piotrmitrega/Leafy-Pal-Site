@@ -10,6 +10,9 @@ const nextConfig = {
     unoptimized: true,
   },
   output: "export",
+  basePath: "/Leafy-Pal-Site",
+  assetPrefix: "/Leafy-Pal-Site/",
+  trailingSlash: true,
 };
 
 export default nextConfig;
