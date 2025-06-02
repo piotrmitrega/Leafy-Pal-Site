@@ -15,7 +15,8 @@ export default {
     share: "Share",
     search: "Search",
     noArticlesFound: "No articles found",
-    tryAdjustingSearch: "Try adjusting your search terms or browse all articles",
+    tryAdjustingSearch:
+      "Try adjusting your search terms or browse all articles",
     previous: "Previous",
     next: "Next",
     page: "Page {number}",
@@ -27,7 +28,8 @@ export default {
     downloadLeafyPal: "Download Leafy Pal",
     logoAlt: "Leafy Pal Logo",
     mascotAlt: "Leafy Pal Mascot",
-    appScreensAlt: "Leafy Pal App Interface showing plant identification and health monitoring",
+    appScreensAlt:
+      "Leafy Pal App Interface showing plant identification and health monitoring",
   },
   languages: {
     en: "English",
@@ -67,7 +69,8 @@ export default {
       },
       feature4: {
         title: "Contact with AI Expert",
-        description: "Chat with our AI expert about any plant care questions, 24/7.",
+        description:
+          "Chat with our AI expert about any plant care questions, 24/7.",
       },
       userCount: "Used by over 10,000 plant lovers",
     },
@@ -77,7 +80,8 @@ export default {
     },
     blog: {
       title: "Latest from Our Blog",
-      subtitle: "Discover tips, guides, and insights to help your plants thrive.",
+      subtitle:
+        "Discover tips, guides, and insights to help your plants thrive.",
     },
     faq: {
       title: "Frequently Asked Questions",
@@ -127,7 +131,8 @@ export default {
     },
     wateringReminders: {
       title: "Watering Reminders",
-      description: "Never forget to water your plants with customized schedules based on each plant's needs.",
+      description:
+        "Never forget to water your plants with customized schedules based on each plant's needs.",
     },
     plantDiagnosis: {
       title: "Plant Diagnosis",
@@ -229,26 +234,32 @@ export default {
           "Leaf color changes are among the most common indicators of plant health problems. Different discolorations point to specific issues:",
         symptom1: {
           title: "Yellowing leaves (chlorosis):",
-          description: "Often indicates nutrient deficiencies, particularly nitrogen, or overwatering.",
+          description:
+            "Often indicates nutrient deficiencies, particularly nitrogen, or overwatering.",
         },
         symptom2: {
           title: "Brown leaf tips or edges:",
-          description: "Usually a sign of underwatering, low humidity, or salt buildup from fertilizers.",
+          description:
+            "Usually a sign of underwatering, low humidity, or salt buildup from fertilizers.",
         },
         symptom3: {
           title: "Purple or reddish coloration:",
-          description: "May indicate phosphorus deficiency or temperature stress.",
+          description:
+            "May indicate phosphorus deficiency or temperature stress.",
         },
         symptom4: {
           title: "Black or dark spots:",
-          description: "Often fungal infections, especially in humid conditions.",
+          description:
+            "Often fungal infections, especially in humid conditions.",
         },
-        image1Alt: "Comparison of healthy and unhealthy plant leaves showing different discolorations",
+        image1Alt:
+          "Comparison of healthy and unhealthy plant leaves showing different discolorations",
         heading2: "Recognizing Growth Abnormalities",
         paragraph3: "Unusual growth patterns can reveal underlying issues:",
         growth1: {
           title: "Stunted growth:",
-          description: "May indicate root problems, pest infestations, or nutrient deficiencies.",
+          description:
+            "May indicate root problems, pest infestations, or nutrient deficiencies.",
         },
         growth2: {
           title: "Leggy or stretched stems:",
@@ -260,17 +271,21 @@ export default {
         },
         growth4: {
           title: "Curling or distorted leaves:",
-          description: "Can be caused by pests, viruses, or environmental stress.",
+          description:
+            "Can be caused by pests, viruses, or environmental stress.",
         },
         heading3: "Identifying Pest Infestations",
-        paragraph4: "Pests can cause significant damage if not addressed promptly. Look for these signs:",
+        paragraph4:
+          "Pests can cause significant damage if not addressed promptly. Look for these signs:",
         pest1: {
           title: "Tiny webs:",
-          description: "Spider mites often create fine webbing between leaves and stems.",
+          description:
+            "Spider mites often create fine webbing between leaves and stems.",
         },
         pest2: {
           title: "Sticky residue:",
-          description: "Honeydew secreted by aphids, mealybugs, and scale insects.",
+          description:
+            "Honeydew secreted by aphids, mealybugs, and scale insects.",
         },
         pest3: {
           title: "Small holes in leaves:",
@@ -282,7 +297,8 @@ export default {
         },
         image2Alt: "Close-up of mealybugs on a plant stem",
         heading4: "Diagnosing Watering Issues",
-        paragraph5: "Both overwatering and underwatering can harm plants, but they present different symptoms:",
+        paragraph5:
+          "Both overwatering and underwatering can harm plants, but they present different symptoms:",
         subheading1: "Overwatering Signs",
         overwatering1: "Yellowing leaves throughout the plant",
         overwatering2: "Soft, mushy stems near the soil line",
@@ -325,7 +341,8 @@ export default {
         },
         action5: {
           title: "Prevent future problems",
-          description: "by adjusting care routines based on what you've learned.",
+          description:
+            "by adjusting care routines based on what you've learned.",
         },
         paragraph8:
           "Remember that most plant problems are fixable if caught early. By learning to read your plants' distress signals, you'll be able to provide the care they need to thrive.",
@@ -333,10 +350,12 @@ export default {
           "The Leafy Pal app can help you track plant health and receive timely care reminders, making it easier to maintain a thriving indoor garden.",
       },
       "temperature-humidity-houseplants": {
-        title: "The Right Climate: Understanding Temperature & Humidity for Houseplants",
+        title:
+          "The Right Climate: Understanding Temperature & Humidity for Houseplants",
         description:
           "Create the ideal indoor climate for your plants by mastering temperature and humidity requirements.",
-        heroAlt: "Tropical plants in a humid environment with temperature and humidity gauge",
+        heroAlt:
+          "Tropical plants in a humid environment with temperature and humidity gauge",
         heading1: "Why Temperature and Humidity Matter",
         paragraph1:
           "Most houseplants are tropical or subtropical species that have evolved in specific climate conditions. When we bring these plants into our homes, we're asking them to adapt to an environment that can be drastically different from their natural habitat. Understanding and managing temperature and humidity is crucial for helping your plants not just survive, but thrive.",
@@ -344,21 +363,24 @@ export default {
         paragraph2:
           "Most houseplants prefer temperatures between 65-75°F (18-24°C) during the day and about 10°F cooler at night. However, different plant groups have different preferences:",
         subheading1: "Tropical Plants",
-        tropicalPlants: "Plants like Monstera, Philodendron, and Pothos prefer:",
+        tropicalPlants:
+          "Plants like Monstera, Philodendron, and Pothos prefer:",
         tropicalTemp1: "Daytime: 70-85°F (21-29°C)",
         tropicalTemp2: "Nighttime: 65-70°F (18-21°C)",
         tropicalTemp3: "Minimum: 55°F (13°C)",
         tropicalWarning:
           "These plants can be damaged by temperatures below 50°F (10°C) and should be kept away from cold drafts.",
         subheading2: "Succulents and Cacti",
-        succulentsPlants: "Desert natives like Aloe, Echeveria, and various cacti prefer:",
+        succulentsPlants:
+          "Desert natives like Aloe, Echeveria, and various cacti prefer:",
         succulentsTemp1: "Daytime: 70-85°F (21-29°C)",
         succulentsTemp2: "Nighttime: 50-55°F (10-13°C)",
         succulentsTemp3: "Winter rest period: 45-55°F (7-13°C)",
         succulentsNote:
           "Many succulents actually benefit from cooler temperatures in winter, which helps trigger blooming in the spring.",
         subheading3: "Temperate Plants",
-        temperatePlants: "Plants like Ferns, Ivy, and some flowering plants prefer:",
+        temperatePlants:
+          "Plants like Ferns, Ivy, and some flowering plants prefer:",
         temperateTemp1: "Daytime: 65-75°F (18-24°C)",
         temperateTemp2: "Nighttime: 55-65°F (13-18°C)",
         temperateTemp3: "Minimum: 45°F (7°C) for short periods",
@@ -384,7 +406,8 @@ export default {
         lowHumidityPlants4: "ZZ Plant",
         lowHumidityPlants5: "Jade Plant",
         heading4: "Signs of Temperature and Humidity Problems",
-        paragraph4: "Your plants will tell you when they're uncomfortable with their environment:",
+        paragraph4:
+          "Your plants will tell you when they're uncomfortable with their environment:",
         subheading7: "Temperature Too High",
         tempHighSigns1: "Wilting despite moist soil",
         tempHighSigns2: "Leaf scorch (brown, crispy patches)",
@@ -409,7 +432,8 @@ export default {
         humidityHighSigns3: "Root rot",
         humidityHighSigns4: "Soft, mushy stems",
         heading5: "Creating the Ideal Climate for Your Plants",
-        paragraph5: "Here are practical ways to manage temperature and humidity for your houseplants:",
+        paragraph5:
+          "Here are practical ways to manage temperature and humidity for your houseplants:",
         subheading11: "Temperature Management",
         tempManagement1:
           "Avoid extreme fluctuations - Keep plants away from heating vents, air conditioners, and drafty windows",
@@ -424,18 +448,22 @@ export default {
           "Humidity trays - Place plants on trays filled with pebbles and water (ensure pots sit on pebbles, not in water)",
         humidityManagement2:
           "Grouping plants - Plants release moisture through transpiration; grouping them creates a more humid microclimate",
-        humidityManagement3: "Room humidifiers - Particularly useful in winter when indoor air is dry",
+        humidityManagement3:
+          "Room humidifiers - Particularly useful in winter when indoor air is dry",
         humidityManagement4:
           "Misting - Can provide temporary relief but isn't a long-term solution for high-humidity plants",
-        humidityManagement5: "Terrariums and cloches - Create naturally humid environments for moisture-loving plants",
+        humidityManagement5:
+          "Terrariums and cloches - Create naturally humid environments for moisture-loving plants",
         humidityManagement6:
           "Bathroom and kitchen placement - These rooms naturally have higher humidity levels, making them ideal for humidity-loving plants",
         humidityManagement7:
           "Grow cabinets or plant cases - Enclosed spaces where humidity can be more easily controlled",
         heading6: "Seasonal Considerations",
-        paragraph6: "Your approach to temperature and humidity should change with the seasons:",
+        paragraph6:
+          "Your approach to temperature and humidity should change with the seasons:",
         subheading13: "Winter Challenges",
-        winterChallenges1: "Heating systems reduce humidity and create hot spots",
+        winterChallenges1:
+          "Heating systems reduce humidity and create hot spots",
         winterChallenges2: "Cold windows can create damaging cold drafts",
         winterChallenges3: "Shorter days mean less heat from sunlight",
         winterSolutions:
@@ -447,10 +475,12 @@ export default {
         summerSolutions:
           "Solutions: Provide shade from intense afternoon sun, increase watering frequency, mist heat-sensitive plants during hot days, and ensure good air circulation.",
         heading7: "Monitoring Tools",
-        paragraph7: "To properly manage temperature and humidity, consider investing in:",
+        paragraph7:
+          "To properly manage temperature and humidity, consider investing in:",
         monitoringTools1:
           "Digital thermometer/hygrometer combo - Inexpensive devices that measure both temperature and humidity",
-        monitoringTools2: "Smart sensors - Connected devices that can alert you to problematic conditions",
+        monitoringTools2:
+          "Smart sensors - Connected devices that can alert you to problematic conditions",
         monitoringTools3:
           "Plant monitoring apps - Some can use your phone's sensors or connect to external sensors to track conditions",
         conclusion: "Conclusion",
@@ -496,7 +526,8 @@ export default {
         ],
         paragraph6:
           "For trailing plants in hanging baskets, periodic trimming of the longest vines not only creates a fuller appearance but also prevents the plant from becoming too heavy on one side.",
-        heading6: "Upright Foliage Plants (Dracaena, Dieffenbachia, Rubber Plant)",
+        heading6:
+          "Upright Foliage Plants (Dracaena, Dieffenbachia, Rubber Plant)",
         paragraph7:
           "These plants often develop a tree-like form and may become too tall or lose lower leaves over time.",
         uprightList: [
@@ -552,21 +583,24 @@ export default {
         paragraph13:
           "Once you've mastered basic pruning, these advanced techniques can help you shape plants more creatively and solve specific growth issues:",
         heading15: "Training and Staking",
-        paragraph14: "Combining pruning with support structures can create dramatic plant forms:",
+        paragraph14:
+          "Combining pruning with support structures can create dramatic plant forms:",
         trainingList: [
           "<strong>Moss poles:</strong> For climbing plants like Monstera and Philodendron, prune to encourage growth toward a moss pole",
           "<strong>Espalier:</strong> Train plants to grow flat against a support by selectively pruning growth that extends outward",
           "<strong>Topiary:</strong> Create geometric or animal shapes through regular, precise pruning",
         ],
         heading16: "Air Layering",
-        paragraph15: "This technique combines pruning with propagation and is useful for:",
+        paragraph15:
+          "This technique combines pruning with propagation and is useful for:",
         airLayeringList: [
           "Reducing the height of tall houseplants while creating a new plant from the top section",
           "Propagating plants that are difficult to root from simple cuttings",
           "Creating a fuller plant by encouraging roots to form on a stem that will eventually be cut and planted in the same pot",
         ],
         heading17: "Notching",
-        paragraph16: "For plants that have become leggy with growth only at the top:",
+        paragraph16:
+          "For plants that have become leggy with growth only at the top:",
         notchingList: [
           "Make small notches in the bark just above dormant buds on the main stem",
           "This interrupts the flow of plant hormones that suppress lateral bud growth",
@@ -583,7 +617,8 @@ export default {
           "<strong>Ignoring plant-specific needs:</strong> Research your specific plant variety before pruning, as some have unique requirements",
         ],
         heading19: "Post-Pruning Care",
-        paragraph18: "After pruning, plants need some special attention to recover properly:",
+        paragraph18:
+          "After pruning, plants need some special attention to recover properly:",
         aftercareList: [
           "<strong>Reduce watering slightly:</strong> A pruned plant has less foliage and therefore needs less water initially",
           "<strong>Hold off on fertilizing:</strong> Wait 2-4 weeks after significant pruning before fertilizing to avoid stressing the plant",
@@ -597,11 +632,6 @@ export default {
           "Remember that most houseplants are forgiving, and even pruning mistakes are rarely fatal. Start with small, conservative cuts as you build confidence, and soon you'll be shaping your indoor jungle with the skilled hand of a plant artist.",
         paragraph21:
           "Regular maintenance pruning, combined with proper watering, lighting, and feeding, forms the foundation of exceptional plant care. Master these skills, and your houseplants will reward you with lush growth, improved health, and striking beauty for years to come.",
-      },
-      "pest-control-houseplants": {
-        title: "Guardians Against Green Grief: Mastering Pest Control for Houseplants",
-        description:
-          "Identify common pests and learn effective natural and chemical solutions to protect your indoor garden.",
       },
       "principles-fertilization": {
         title: "Nourishing Growth: The Principles of Fertilization",
@@ -625,15 +655,18 @@ export default {
       },
       "plant-air-purification": {
         title: "The Science Behind Plant Air Purification",
-        description: "Explore how plants improve indoor air quality by removing toxins and releasing oxygen.",
+        description:
+          "Explore how plants improve indoor air quality by removing toxins and releasing oxygen.",
       },
       "designing-home-with-plants": {
         title: "Designing Your Home with Plants: Aesthetic and Functional Tips",
-        description: "Discover how to enhance your home's aesthetics and functionality with strategic plant placement.",
+        description:
+          "Discover how to enhance your home's aesthetics and functionality with strategic plant placement.",
       },
       "plant-toxicity-safety": {
         title: "Understanding Plant Toxicity: Keeping Pets and Children Safe",
-        description: "Learn which plants are toxic and how to create a safe environment for your family and pets.",
+        description:
+          "Learn which plants are toxic and how to create a safe environment for your family and pets.",
       },
       "plant-care-routine-busy-individuals": {
         title: "Creating a Plant Care Routine for Busy Individuals",
@@ -645,23 +678,11 @@ export default {
         description:
           "Discover plants that purify the air without triggering allergies for a healthier home environment.",
       },
-      "ultimate-guide-indoor-plants": {
-        title: "The Ultimate Guide to Caring for Indoor Plants",
-        description:
-          "Learn everything you need to know about light, water, soil, and more to keep your indoor plants thriving.",
-      },
-      "houseplants-that-thrive-on-neglect": {
-        title: "7 Houseplants That Thrive on Neglect (And How to Keep Them Thriving Anyway)",
-        description: "Discover resilient plants perfect for busy people or beginners who might forget to water.",
-      },
       "common-houseplant-diseases": {
-        title: "What's Wrong With My Plant? 5 Common Houseplant Diseases and How to Treat Them",
-        description: "Learn to identify and treat the most common plant diseases to keep your indoor jungle healthy.",
-      },
-      "thriving-indoor-jungle": {
-        title: "The Secret to a Thriving Indoor Jungle: Routine, Not Luck",
+        title:
+          "What's Wrong With My Plant? 5 Common Houseplant Diseases and How to Treat Them",
         description:
-          "Discover how establishing a consistent plant care routine is the real secret to maintaining a lush indoor garden.",
+          "Learn to identify and treat the most common plant diseases to keep your indoor jungle healthy.",
       },
       "pet-safe-houseplants": {
         title: "The Ultimate Guide to Choosing Pet-Safe Houseplants",
@@ -669,33 +690,36 @@ export default {
           "Learn which plants are safe for your furry friends and how to create a pet-friendly indoor garden.",
       },
       "understanding-plant-lighting": {
-        title: "Understanding Plant Lighting: How to Match Plants with Your Home's Light Conditions",
-        description: "Learn how to assess your home's light conditions and choose plants that will thrive in them.",
+        title:
+          "Understanding Plant Lighting: How to Match Plants with Your Home's Light Conditions",
+        description:
+          "Learn how to assess your home's light conditions and choose plants that will thrive in them.",
       },
       "common-houseplant-pests": {
         title: "How to Spot and Treat the Most Common Houseplant Pests",
-        description: "Learn to identify and effectively treat common pests that can damage your indoor plants.",
+        description:
+          "Learn to identify and effectively treat common pests that can damage your indoor plants.",
       },
       "reviving-dying-plants": {
-        title: "How to Revive a Dying Plant: Rescue Techniques That Actually Work",
-        description: "Step-by-step guide to bringing your struggling plants back to life with proven rescue methods.",
-      },
-      "plants-for-clean-air": {
-        title: "Top 10 Plants for Cleaner Indoor Air",
+        title:
+          "How to Revive a Dying Plant: Rescue Techniques That Actually Work",
         description:
-          "Discover which houseplants are most effective at purifying your home's air and improving your well-being.",
+          "Step-by-step guide to bringing your struggling plants back to life with proven rescue methods.",
       },
       "low-light-plants": {
         title: "10 Low-Light Plants That Will Thrive in Your Apartment",
-        description: "Discover plants that don't need much sunlight but still look amazing.",
+        description:
+          "Discover plants that don't need much sunlight but still look amazing.",
       },
       "plant-diseases": {
         title: "How to Diagnose and Treat Common Plant Diseases",
-        description: "Learn to identify and fix the most common issues affecting houseplants.",
+        description:
+          "Learn to identify and fix the most common issues affecting houseplants.",
       },
       "watering-guide": {
         title: "The Ultimate Guide to Watering Your Plants",
-        description: "Everything you need to know about when and how to water different types of plants.",
+        description:
+          "Everything you need to know about when and how to water different types of plants.",
       },
     },
   },
@@ -732,7 +756,8 @@ export default {
     },
   },
   footer: {
-    description: "Your plant care companion. Track, identify, diagnose, and organize your plants with ease.",
+    description:
+      "Your plant care companion. Track, identify, diagnose, and organize your plants with ease.",
     company: "Company",
     resources: "Resources",
     legal: "Legal",
@@ -740,4 +765,4 @@ export default {
     privacyPolicy: "Privacy Policy",
     termsOfUse: "Terms of Use",
   },
-}
+};
