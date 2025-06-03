@@ -95,7 +95,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Designing Your Home with Plants: Aesthetic and Functional Tips",
     description:
       "Discover how to enhance your home's aesthetics and functionality with strategic plant placement.",
-    image: "/room-theme-plants.png", // Updated to existing image
+    image: "/designing-home-plants-hero.png", // Updated to existing image
     category: "Home Design",
     date: "May 8, 2024",
     tags: ["Home Design", "Interior Decor", "Plant Placement", "Aesthetics"],
@@ -105,7 +105,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Understanding Plant Toxicity: Keeping Pets and Children Safe",
     description:
       "Learn which plants are toxic and how to create a safe environment for your family and pets.",
-    image: "/pet-child-plant-safety.png", // Updated to existing image
+    image: "/plant-toxicity-hero.png", // Updated to existing image
     category: "Plant Safety",
     date: "May 8, 2024",
     tags: ["Plant Toxicity", "Pet Safety", "Child Safety", "Indoor Plants"],

@@ -66,27 +66,6 @@ export default function AllergFriendlyHouseplantsPage() {
               while still enjoying the benefits of indoor gardening.
             </p>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
-              <div className="rounded-lg overflow-hidden">
-                <Image
-                  src="/allergy-comfort-plants.png"
-                  alt="Comfortable living space with allergy-friendly plants"
-                  width={500}
-                  height={350}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-              <div className="rounded-lg overflow-hidden">
-                <Image
-                  src="/allergy-idyl-plants.png"
-                  alt="Peaceful arrangement of allergy-friendly plants"
-                  width={500}
-                  height={350}
-                  className="object-cover w-full h-full"
-                />
-              </div>
-            </div>
-
             <h2 className="text-2xl font-bold text-[#1F682E] mt-10 mb-6">
               Top Picks
             </h2>
@@ -248,6 +227,16 @@ export default function AllergFriendlyHouseplantsPage() {
             <h2 className="text-2xl font-bold text-[#1F682E] mt-10 mb-4">
               Care Tips
             </h2>
+
+            <div className="my-8 relative w-full h-[300px] rounded-lg overflow-hidden">
+              <Image
+                src="/indoor-plants-care-guide.png"
+                alt="Person examining plant leaves for disease"
+                fill
+                className="object-cover"
+              />
+            </div>
+
             <p>
               To maximize the benefits of these allergy-friendly plants while
               minimizing any potential issues, follow these care guidelines:

@@ -27,7 +27,7 @@ export default function PlantHealthDiagnosticsPage() {
         Use this systematic approach to diagnose plant problems effectively:
       </p>
 
-      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
+      <div className="bg-green-50 border border-green-200 rounded-lg p-4 mb-6">
         <ul className="text-sm space-y-2">
           <li>
             <strong>S</strong>ymptoms - What exactly do you see?
@@ -58,8 +58,8 @@ export default function PlantHealthDiagnosticsPage() {
           </h3>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-            <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-4">
-              <h4 className="font-bold text-orange-600 mb-2">
+            <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
+              <h4 className="font-bold text-[#1F682E] mb-2">
                 Yellow Leaves (Chlorosis)
               </h4>
               <ul className="text-sm space-y-1">
@@ -82,8 +82,8 @@ export default function PlantHealthDiagnosticsPage() {
               </ul>
             </div>
 
-            <div className="bg-red-50 border border-red-200 rounded-lg p-4">
-              <h4 className="font-bold text-red-600 mb-2">
+            <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
+              <h4 className="font-bold text-[#1F682E] mb-2">
                 Brown/Black Discoloration
               </h4>
               <ul className="text-sm space-y-1">
@@ -107,8 +107,8 @@ export default function PlantHealthDiagnosticsPage() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-            <div className="bg-purple-50 border border-purple-200 rounded-lg p-4">
-              <h4 className="font-bold text-purple-600 mb-2">
+            <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
+              <h4 className="font-bold text-[#1F682E] mb-2">
                 Purple/Red Coloring
               </h4>
               <ul className="text-sm space-y-1">
@@ -130,7 +130,7 @@ export default function PlantHealthDiagnosticsPage() {
             </div>
 
             <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
-              <h4 className="font-bold text-gray-600 mb-2">
+              <h4 className="font-bold text-[#1F682E] mb-2">
                 Pale/Faded Leaves
               </h4>
               <ul className="text-sm space-y-1">
@@ -222,7 +222,7 @@ export default function PlantHealthDiagnosticsPage() {
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-8">
         <div>
-          <h3 className="text-xl font-bold text-red-600 mb-3">
+          <h3 className="text-xl font-bold text-gray-700 mb-3">
             Abnormal Growth Indicators
           </h3>
           <ul className="list-disc pl-6 mb-4 space-y-2">
@@ -249,7 +249,7 @@ export default function PlantHealthDiagnosticsPage() {
           </ul>
         </div>
         <div>
-          <h3 className="text-xl font-bold text-green-600 mb-3">
+          <h3 className="text-xl font-bold text-[#1F682E] mb-3">
             Healthy Growth Signs
           </h3>
           <ul className="list-disc pl-6 mb-4 space-y-2">
@@ -307,8 +307,8 @@ export default function PlantHealthDiagnosticsPage() {
           </div>
         </div>
 
-        <div className="bg-orange-50 border border-orange-200 rounded-lg p-4">
-          <h4 className="font-bold text-orange-600 mb-2">Monitor Closely</h4>
+        <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
+          <h4 className="font-bold text-gray-700 mb-2">Monitor Closely</h4>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
             <div>
               <p>
@@ -412,8 +412,8 @@ export default function PlantHealthDiagnosticsPage() {
             Watering Issues
           </h3>
           <div className="space-y-3">
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-3">
-              <p className="font-semibold text-blue-800">Overwatering Signs:</p>
+            <div className="bg-gray-50 border border-gray-200 rounded-lg p-3">
+              <p className="font-semibold text-gray-700">Overwatering Signs:</p>
               <ul className="text-sm mt-1">
                 <li>• Yellowing leaves (usually lower first)</li>
                 <li>• Soft, mushy stems</li>
@@ -421,8 +421,8 @@ export default function PlantHealthDiagnosticsPage() {
                 <li>• Moldy soil surface</li>
               </ul>
             </div>
-            <div className="bg-yellow-50 border border-yellow-200 rounded-lg p-3">
-              <p className="font-semibold text-yellow-800">
+            <div className="bg-gray-50 border border-gray-200 rounded-lg p-3">
+              <p className="font-semibold text-gray-700">
                 Underwatering Signs:
               </p>
               <ul className="text-sm mt-1">
@@ -440,16 +440,16 @@ export default function PlantHealthDiagnosticsPage() {
             Environmental Stress
           </h3>
           <div className="space-y-3">
-            <div className="bg-red-50 border border-red-200 rounded-lg p-3">
-              <p className="font-semibold text-red-800">Temperature Stress:</p>
+            <div className="bg-gray-50 border border-gray-200 rounded-lg p-3">
+              <p className="font-semibold text-gray-700">Temperature Stress:</p>
               <ul className="text-sm mt-1">
                 <li>• Cold: Purple/black leaves, dropping</li>
                 <li>• Heat: Wilting, scorched leaves</li>
                 <li>• Sudden changes: Shock, leaf drop</li>
               </ul>
             </div>
-            <div className="bg-purple-50 border border-purple-200 rounded-lg p-3">
-              <p className="font-semibold text-purple-800">Humidity Issues:</p>
+            <div className="bg-gray-50 border border-gray-200 rounded-lg p-3">
+              <p className="font-semibold text-gray-700">Humidity Issues:</p>
               <ul className="text-sm mt-1">
                 <li>• Low: Brown leaf tips, curling</li>
                 <li>• High: Fungal issues, soft growth</li>
@@ -556,7 +556,7 @@ export default function PlantHealthDiagnosticsPage() {
         key elements:
       </p>
 
-      <div className="bg-blue-50 border border-blue-200 rounded-lg p-4 mb-6">
+      <div className="bg-green-50 border border-green-200 rounded-lg p-4 mb-6">
         <h4 className="font-bold text-[#1F682E] mb-2">
           Journal Entries Should Include:
         </h4>
