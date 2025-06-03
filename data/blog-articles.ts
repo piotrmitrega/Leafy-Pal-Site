@@ -115,7 +115,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Creating a Plant Care Routine for Busy Individuals",
     description:
       "Learn how to maintain healthy plants even with a hectic schedule through structured routines and smart tools.",
-    image: "/houseplant-pruning-calendar.png", // Updated to existing image
+    image: "/plant-care-busy.png", // Updated to existing image
     category: "Plant Care",
     date: "May 5, 2024",
     tags: ["Plant Care", "Routines", "Time Management", "Busy Lifestyle"],
@@ -146,7 +146,7 @@ export const blogArticles: BlogArticle[] = [
     title: "The Ultimate Guide to Choosing Pet-Safe Houseplants",
     description:
       "Learn which plants are safe for your furry friends and how to create a pet-friendly indoor garden.",
-    image: "/spider-plant-safe.png", // Updated to existing image
+    image: "/pet-safe-houseplants.png", // Updated to existing image
     category: "Plant Safety",
     date: "April 19, 2024",
     tags: ["Pet-Safe Plants", "Pet Owners", "Indoor Garden", "Safety"],
@@ -171,40 +171,20 @@ export const blogArticles: BlogArticle[] = [
     title: "How to Spot and Treat the Most Common Houseplant Pests",
     description:
       "Learn to identify and effectively treat common pests that can damage your indoor plants.",
-    image: "/washing-plant-leaves.png", // Updated to existing image
+    image: "/mealybugs-on-stem.png", // Updated to existing image
     category: "Plant Health",
     date: "April 13, 2024",
     tags: ["Pests", "Plant Health", "Treatment", "Identification"],
-  },
-  {
-    slug: "reviving-dying-plants",
-    title: "How to Revive a Dying Plant: Rescue Techniques That Actually Work",
-    description:
-      "Step-by-step guide to bringing your struggling plants back to life with proven rescue methods.",
-    image: "/drought-stressed-plant.png", // Updated to existing image
-    category: "Plant Care",
-    date: "April 10, 2024",
-    tags: ["Plant Rescue", "Reviving Plants", "Troubleshooting", "Plant Care"],
   },
   {
     slug: "low-light-plants",
     title: "10 Low-Light Plants That Will Thrive in Your Apartment",
     description:
       "Discover plants that don't need much sunlight but still look amazing.",
-    image: "/low-light-plants.png", // Updated to existing image
+    image: "/low-light-houseplants.png", // Updated to existing image
     category: "Plant Types",
     date: "April 4, 2024",
     tags: ["Low Light", "Apartment Plants", "Indoor Plants", "Plant Types"],
-  },
-  {
-    slug: "plant-diseases",
-    title: "How to Diagnose and Treat Common Plant Diseases",
-    description:
-      "Learn to identify and fix the most common issues affecting houseplants.",
-    image: "/diseased-plant-leaf.png", // Already using existing image
-    category: "Plant Health",
-    date: "April 1, 2024",
-    tags: ["Plant Diseases", "Diagnosis", "Treatment", "Plant Health"],
   },
 ];
 
