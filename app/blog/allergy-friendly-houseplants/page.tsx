@@ -47,7 +47,7 @@ export default function AllergFriendlyHouseplantsPage() {
 
           <div className="relative w-full h-[400px] rounded-xl overflow-hidden mb-8">
             <Image
-              src="/allergy-friendly-plants-hero.png"
+              src="./allergy-friendly-plants-hero.png"
               alt="Collection of allergy-friendly houseplants"
               fill
               className="object-cover"
@@ -230,7 +230,7 @@ export default function AllergFriendlyHouseplantsPage() {
 
             <div className="my-8 relative w-full h-[300px] rounded-lg overflow-hidden">
               <Image
-                src="/indoor-plants-care-guide.png"
+                src="./indoor-plants-care-guide.png"
                 alt="Person examining plant leaves for disease"
                 fill
                 className="object-cover"

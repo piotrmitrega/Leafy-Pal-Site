@@ -1,7 +1,7 @@
-"use client"
+"use client";
 
-import Image from "next/image"
-import Link from "next/link"
+import Image from "next/image";
+import Link from "next/link";
 
 export function Footer() {
   return (
@@ -12,7 +12,7 @@ export function Footer() {
             <div className="flex items-center gap-2 mb-4">
               <div className="h-10 w-10 relative">
                 <Image
-                  src="/leafy-pal-mascot.png"
+                  src="./leafy-pal-mascot.png"
                   alt="Leafy Pal Mascot"
                   width={500}
                   height={400}
@@ -21,7 +21,8 @@ export function Footer() {
               </div>
             </div>
             <p className="text-[#454238] mb-4 max-w-sm">
-              Your plant care companion. Track, identify, diagnose, and organize your plants with ease.
+              Your plant care companion. Track, identify, diagnose, and organize
+              your plants with ease.
             </p>
           </div>
 
@@ -29,12 +30,18 @@ export function Footer() {
             <h3 className="font-medium text-[#1F682E] mb-4">Company</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="/#about" className="text-[#454238] hover:text-[#1F682E] transition-colors">
+                <Link
+                  href="/#about"
+                  className="text-[#454238] hover:text-[#1F682E] transition-colors"
+                >
                   About Us
                 </Link>
               </li>
               <li>
-                <Link href="#" className="text-[#454238] hover:text-[#1F682E] transition-colors">
+                <Link
+                  href="#"
+                  className="text-[#454238] hover:text-[#1F682E] transition-colors"
+                >
                   Contact
                 </Link>
               </li>
@@ -45,12 +52,18 @@ export function Footer() {
             <h3 className="font-medium text-[#1F682E] mb-4">Resources</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="/blog" className="text-[#454238] hover:text-[#1F682E] transition-colors">
+                <Link
+                  href="/blog"
+                  className="text-[#454238] hover:text-[#1F682E] transition-colors"
+                >
                   Blog
                 </Link>
               </li>
               <li>
-                <Link href="/#faq" className="text-[#454238] hover:text-[#1F682E] transition-colors">
+                <Link
+                  href="/#faq"
+                  className="text-[#454238] hover:text-[#1F682E] transition-colors"
+                >
                   FAQ
                 </Link>
               </li>
@@ -61,12 +74,18 @@ export function Footer() {
             <h3 className="font-medium text-[#1F682E] mb-4">Legal</h3>
             <ul className="space-y-2">
               <li>
-                <Link href="/privacy-policy" className="text-[#454238] hover:text-[#1F682E] transition-colors">
+                <Link
+                  href="/privacy-policy"
+                  className="text-[#454238] hover:text-[#1F682E] transition-colors"
+                >
                   Privacy Policy
                 </Link>
               </li>
               <li>
-                <Link href="/terms-of-use" className="text-[#454238] hover:text-[#1F682E] transition-colors">
+                <Link
+                  href="/terms-of-use"
+                  className="text-[#454238] hover:text-[#1F682E] transition-colors"
+                >
                   Terms of Use
                 </Link>
               </li>
@@ -81,5 +100,5 @@ export function Footer() {
         </div>
       </div>
     </footer>
-  )
+  );
 }

@@ -7,7 +7,7 @@ export default function PrinciplesFertilizationPage() {
       date="May 11, 2024"
       category="Plant Care"
       slug="principles-fertilization"
-      image="/fertilization-principles-hero.png"
+      image="./fertilization-principles-hero.png"
       heroAlt="Person applying fertilizer to houseplants"
       tags={["Fertilization", "Plant Nutrition", "Growth", "Houseplants"]}
     >

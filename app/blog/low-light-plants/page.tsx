@@ -20,7 +20,7 @@ export default function LowLightPlantsPage() {
       slug="low-light-plants"
       title="10 Low-Light Plants That Will Thrive in Your Apartment"
       description="Discover plants that don't need much sunlight but still look amazing."
-      image="/low-light-houseplants.png"
+      image="./low-light-houseplants.png"
       category="Plant Types"
       date="April 4, 2024"
       tags={["Low Light", "Apartment Plants", "Indoor Plants", "Plant Types"]}
@@ -63,7 +63,7 @@ export default function LowLightPlantsPage() {
       <h3>1. Snake Plant (Sansevieria)</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/snake-plant.png"
+          src="./snake-plant.png"
           alt="Snake plant with tall, upright variegated leaves"
           fill
           className="object-cover"
@@ -85,7 +85,7 @@ export default function LowLightPlantsPage() {
       <h3>2. ZZ Plant (Zamioculcas zamiifolia)</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/zamioculcas.png"
+          src="./zamioculcas.png"
           alt="Snake plant with tall, upright variegated leaves"
           fill
           className="object-cover"
@@ -107,7 +107,7 @@ export default function LowLightPlantsPage() {
 
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/pothos.png"
+          src="./pothos.png"
           alt="Snake plant with tall, upright variegated leaves"
           fill
           className="object-cover"
@@ -128,7 +128,7 @@ export default function LowLightPlantsPage() {
       <h3>4. Chinese Evergreen (Aglaonema)</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/chinese-evergreen.png"
+          src="./chinese-evergreen.png"
           alt="Chinese evergreen plant with patterned leaves"
           fill
           className="object-cover"
@@ -147,7 +147,7 @@ export default function LowLightPlantsPage() {
       <h3>5. Peace Lily (Spathiphyllum)</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/peace-lily.png"
+          src="./peace-lily.png"
           alt="Peace lily with white flower spathes"
           fill
           className="object-cover"
@@ -167,7 +167,7 @@ export default function LowLightPlantsPage() {
       <h3>6. Cast Iron Plant (Aspidistra elatior)</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/cast-iron-plant.png"
+          src="./cast-iron-plant.png"
           alt="Snake plant with tall, upright variegated leaves"
           fill
           className="object-cover"
@@ -187,7 +187,7 @@ export default function LowLightPlantsPage() {
       <h3>7. Philodendron</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/philodendron.png"
+          src="./philodendron.png"
           alt="Snake plant with tall, upright variegated leaves"
           fill
           className="object-cover"
@@ -206,7 +206,7 @@ export default function LowLightPlantsPage() {
       <h3>8. Spider Plant (Chlorophytum comosum)</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/spider-plant.png"
+          src="./spider-plant.png"
           alt="Spider plant with arching variegated leaves and plantlets"
           fill
           className="object-cover"
@@ -226,7 +226,7 @@ export default function LowLightPlantsPage() {
       <h3>9. Dracaena</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/dracaena.png"
+          src="./dracaena.png"
           alt="Dracaena plant with striped leaves"
           fill
           className="object-cover"
@@ -247,7 +247,7 @@ export default function LowLightPlantsPage() {
       <h3>10. Parlor Palm (Chamaedorea elegans)</h3>
       <div className="relative w-full h-64 my-6 rounded-lg overflow-hidden">
         <Image
-          src="/parlor-palm.png"
+          src="./parlor-palm.png"
           alt="Parlor palm with fronds"
           fill
           className="object-cover"

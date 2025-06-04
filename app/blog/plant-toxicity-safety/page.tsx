@@ -8,7 +8,7 @@ export default function PlantToxicitySafetyPage() {
       date="May 8, 2024"
       category="Plant Safety"
       slug="plant-toxicity-safety"
-      image="/plant-toxicity-hero.png"
+      image="./plant-toxicity-hero.png"
       heroAlt="Child and pet with safe houseplants"
       tags={["Plant Toxicity", "Pet Safety", "Child Safety", "Indoor Plants"]}
     >
@@ -43,7 +43,7 @@ export default function PlantToxicitySafetyPage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <Image
-          src="/common-toxic-plants.png"
+          src="./common-toxic-plants.png"
           alt="Child and pet interacting safely with houseplants"
           fill
           className="object-cover"
@@ -121,7 +121,7 @@ export default function PlantToxicitySafetyPage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <Image
-          src="/pet-child-safe-plants.png"
+          src="./pet-child-safe-plants.png"
           alt="Child and pet interacting safely with houseplants"
           fill
           className="object-cover"
@@ -161,7 +161,7 @@ export default function PlantToxicitySafetyPage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <Image
-          src="/safe-plant-placement.png"
+          src="./safe-plant-placement.png"
           alt="Child and pet interacting safely with houseplants"
           fill
           className="object-cover"

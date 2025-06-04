@@ -10,7 +10,7 @@ export default function PlantCareRoutinePage() {
       date="May 8, 2024"
       category="Plant Care"
       slug={currentSlug}
-      image="/plant-care-busy.png"
+      image="./plant-care-busy.png"
       heroAlt="Busy person caring for plants"
       tags={["plant care", "busy lifestyle", "routine", "organization"]}
     >
@@ -53,7 +53,7 @@ export default function PlantCareRoutinePage() {
 
       <div className="relative w-full h-[300px] my-8 rounded-xl overflow-hidden">
         <Image
-          src="/drought-stressed-plant.png"
+          src="./drought-stressed-plant.png"
           alt="Busy person with plants"
           fill
           className="object-cover"
@@ -93,7 +93,7 @@ export default function PlantCareRoutinePage() {
 
       <div className="relative w-full h-[300px] my-8 rounded-xl overflow-hidden">
         <Image
-          src="/washing-plant-leaves.png"
+          src="./washing-plant-leaves.png"
           alt="Busy person with plants"
           fill
           className="object-cover"
@@ -124,7 +124,7 @@ export default function PlantCareRoutinePage() {
 
       <div className="relative w-full h-[300px] my-8 rounded-xl overflow-hidden">
         <Image
-          src="/plant-grouping.png"
+          src="./plant-grouping.png"
           alt="Plants grouped by needs"
           fill
           className="object-cover"
@@ -163,7 +163,7 @@ export default function PlantCareRoutinePage() {
 
       <div className="relative w-full h-[300px] my-8 rounded-xl overflow-hidden">
         <Image
-          src="/plant-care-tools.png"
+          src="./plant-care-tools.png"
           alt="Plant care tools"
           fill
           className="object-cover"

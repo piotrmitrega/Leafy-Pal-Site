@@ -8,7 +8,7 @@ export default function PetSafeHouseplants() {
       date="April 19, 2024"
       category="Plant Safety"
       slug="pet-safe-houseplants"
-      image="/pet-safe-houseplants.png"
+      image="./pet-safe-houseplants.png"
       heroAlt="Pet-safe houseplants"
       tags={["Pet-Safe Plants", "Pet Owners", "Indoor Garden", "Safety"]}
     >

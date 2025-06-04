@@ -10,7 +10,7 @@ export default function SoilAndRepottingPage() {
       date="May 10, 2024"
       category="Plant Care"
       slug={currentSlug}
-      image="/repotting-process.png"
+      image="./repotting-process.png"
       heroAlt="Soil and repotting plants"
       tags={["soil", "repotting", "plant care"]}
     >
@@ -33,7 +33,7 @@ export default function SoilAndRepottingPage() {
         <div className="bg-[#F8F7F2] p-6 rounded-lg">
           <div className="relative h-40 rounded-lg overflow-hidden mb-4">
             <Image
-              src="/general-purpose-potting-mix.png"
+              src="./general-purpose-potting-mix.png"
               alt="General purpose potting mix"
               fill
               className="object-cover"
@@ -52,7 +52,7 @@ export default function SoilAndRepottingPage() {
         <div className="bg-[#F8F7F2] p-6 rounded-lg">
           <div className="relative h-40 rounded-lg overflow-hidden mb-4">
             <Image
-              src="/cactus-succulent-mix.png"
+              src="./cactus-succulent-mix.png"
               alt="Cactus and succulent mix"
               fill
               className="object-cover"
@@ -71,7 +71,7 @@ export default function SoilAndRepottingPage() {
         <div className="bg-[#F8F7F2] p-6 rounded-lg">
           <div className="relative h-40 rounded-lg overflow-hidden mb-4">
             <Image
-              src="/orchid-bark-mix.png"
+              src="./orchid-bark-mix.png"
               alt="Orchid bark mix"
               fill
               className="object-cover"
@@ -90,7 +90,7 @@ export default function SoilAndRepottingPage() {
         <div className="bg-[#F8F7F2] p-6 rounded-lg">
           <div className="relative h-40 rounded-lg overflow-hidden mb-4">
             <Image
-              src="/african-violet-mix.png"
+              src="./african-violet-mix.png"
               alt="African violet mix"
               fill
               className="object-cover"
@@ -170,7 +170,7 @@ export default function SoilAndRepottingPage() {
         <div>
           <div className="relative h-40 rounded-lg overflow-hidden mb-4">
             <Image
-              src="/terracotta-pots.png"
+              src="./terracotta-pots.png"
               alt="Terracotta pots"
               fill
               className="object-cover"
@@ -188,7 +188,7 @@ export default function SoilAndRepottingPage() {
         <div>
           <div className="relative h-40 rounded-lg overflow-hidden mb-4">
             <Image
-              src="/plastic-pots.png"
+              src="./plastic-pots.png"
               alt="Plastic pots"
               fill
               className="object-cover"
@@ -206,7 +206,7 @@ export default function SoilAndRepottingPage() {
         <div>
           <div className="relative h-40 rounded-lg overflow-hidden mb-4">
             <Image
-              src="/glazed-ceramic-pots.png"
+              src="./glazed-ceramic-pots.png"
               alt="Glazed ceramic pots"
               fill
               className="object-cover"

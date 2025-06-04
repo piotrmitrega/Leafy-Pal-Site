@@ -122,7 +122,7 @@ export default function Home() {
                 <div className="flex -space-x-2">
                   <div className="w-8 h-8 rounded-full border-2 border-white relative overflow-hidden">
                     <Image
-                      src="/woman-portrait.png"
+                      src="./woman-portrait.png"
                       alt="User avatar"
                       fill
                       className="object-cover"
@@ -130,7 +130,7 @@ export default function Home() {
                   </div>
                   <div className="w-8 h-8 rounded-full border-2 border-white relative overflow-hidden">
                     <Image
-                      src="/thoughtful-man-portrait.png"
+                      src="./thoughtful-man-portrait.png"
                       alt="User avatar"
                       fill
                       className="object-cover"
@@ -138,7 +138,7 @@ export default function Home() {
                   </div>
                   <div className="w-8 h-8 rounded-full border-2 border-white relative overflow-hidden">
                     <Image
-                      src="/diverse-woman-smiling.png"
+                      src="./diverse-woman-smiling.png"
                       alt="User avatar"
                       fill
                       className="object-cover"
@@ -538,7 +538,7 @@ export default function Home() {
                   </div>
                   <div className="w-10 h-10 rounded-full bg-[#1F682E] flex items-center justify-center text-white font-bold overflow-hidden">
                     <Image
-                      src="/woman-portrait.png"
+                      src="./woman-portrait.png"
                       alt="Sarah K."
                       width={40}
                       height={40}
@@ -581,7 +581,7 @@ export default function Home() {
                   </div>
                   <div className="w-10 h-10 rounded-full bg-[#1F682E] flex items-center justify-center text-white font-bold overflow-hidden">
                     <Image
-                      src="/thoughtful-man-portrait.png"
+                      src="./thoughtful-man-portrait.png"
                       alt="Michael T."
                       width={40}
                       height={40}
@@ -624,7 +624,7 @@ export default function Home() {
                   </div>
                   <div className="w-10 h-10 rounded-full bg-[#1F682E] flex items-center justify-center text-white font-bold overflow-hidden">
                     <Image
-                      src="/diverse-woman-smiling.png"
+                      src="./diverse-woman-smiling.png"
                       alt="Jessica L."
                       width={40}
                       height={40}
@@ -667,7 +667,7 @@ export default function Home() {
                   </div>
                   <div className="w-10 h-10 rounded-full bg-[#1F682E] flex items-center justify-center text-white font-bold overflow-hidden">
                     <Image
-                      src="/thoughtful-artist.png"
+                      src="./thoughtful-artist.png"
                       alt="Alex N."
                       width={40}
                       height={40}
@@ -710,7 +710,7 @@ export default function Home() {
                   </div>
                   <div className="w-10 h-10 rounded-full bg-[#1F682E] flex items-center justify-center text-white font-bold overflow-hidden">
                     <Image
-                      src="/diverse-woman-smiling.png"
+                      src="./diverse-woman-smiling.png"
                       alt="Linda P."
                       width={40}
                       height={40}
@@ -753,7 +753,7 @@ export default function Home() {
                   </div>
                   <div className="w-10 h-10 rounded-full bg-[#1F682E] flex items-center justify-center text-white font-bold overflow-hidden">
                     <Image
-                      src="/man-with-plants.png"
+                      src="./man-with-plants.png"
                       alt="David R."
                       width={40}
                       height={40}
@@ -784,7 +784,7 @@ export default function Home() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src="/watering-houseplants-technique.png"
+                    src="./watering-houseplants-technique.png"
                     alt="The Essential Guide to Watering Your Indoor Plants"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -811,7 +811,7 @@ export default function Home() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src="/plant-sunlight.png"
+                    src="./plant-sunlight.png"
                     alt="Illuminating Growth: Understanding Plant Light Requirements"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -838,7 +838,7 @@ export default function Home() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src="/soil-and-repotting-hero.png"
+                    src="./soil-and-repotting-hero.png"
                     alt="Grounded in Growth: Understanding Soil and Repotting"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -865,7 +865,7 @@ export default function Home() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src="/plant-air-purification-hero.png"
+                    src="./plant-air-purification-hero.png"
                     alt="The Science Behind Plant Air Purification"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -892,7 +892,7 @@ export default function Home() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src="/designing-home-plants-hero.png"
+                    src="./designing-home-plants-hero.png"
                     alt="Designing Your Home with Plants"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -920,7 +920,7 @@ export default function Home() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src="/plant-toxicity-hero.png"
+                    src="./plant-toxicity-hero.png"
                     alt="Understanding Plant Toxicity"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
@@ -960,7 +960,7 @@ export default function Home() {
         >
           <div className="absolute inset-0 w-full h-full opacity-5 z-0">
             <Image
-              src="/minimalist-leaf-pattern.jpg"
+              src="./minimalist-leaf-pattern.jpg"
               alt=""
               fill
               className="object-cover"
@@ -1033,7 +1033,7 @@ export default function Home() {
               </div>
               <div className="relative mx-auto lg:ml-auto">
                 <Image
-                  src="/leafy-pal-mascot.png"
+                  src="./leafy-pal-mascot.png"
                   alt="Leafy Pal Mascot"
                   width={500}
                   height={400}
@@ -1112,7 +1112,7 @@ export default function Home() {
               <div className="flex items-center gap-2 mb-4">
                 <div className="h-10 w-10 relative">
                   <Image
-                    src="/leafy-pal-mascot.png"
+                    src="./leafy-pal-mascot.png"
                     alt="Leafy Pal Mascot"
                     width={500}
                     height={400}

@@ -6,7 +6,7 @@ export default function UnderstandingPlantLightingPage() {
       slug="understanding-plant-lighting"
       title="Understanding Plant Lighting: A Complete Guide"
       description="Master the fundamentals of plant lighting, from natural light assessment to choosing the right grow lights for your indoor garden."
-      image="/window-light-directions.png"
+      image="./window-light-directions.png"
       category="Plant Care"
       date="April 10, 2024"
       tags={["Plant Lighting", "Grow Lights", "Indoor Gardening", "Plant Care"]}

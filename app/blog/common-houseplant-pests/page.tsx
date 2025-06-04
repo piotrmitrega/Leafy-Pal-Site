@@ -7,7 +7,7 @@ export default function BlogPost() {
       date="May 7, 2025"
       category="Plant Care"
       slug="common-houseplant-pests"
-      image="/mealybugs-on-stem.png"
+      image="./mealybugs-on-stem.png"
       heroAlt="Houseplant pests"
     >
       <p className="text-lg mb-6">
