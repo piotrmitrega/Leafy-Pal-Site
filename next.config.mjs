@@ -14,7 +14,7 @@ const nextConfig = {
   },
   output: "export",
   basePath: isGitHubPages ? "/Leafy-Pal-Site" : "",
-  assetPrefix: isGitHubPages ? "/Leafy-Pal-Site/" : "",
+  assetPrefix: isGitHubPages ? "/Leafy-Pal-Site" : "",
   trailingSlash: true,
 };
 

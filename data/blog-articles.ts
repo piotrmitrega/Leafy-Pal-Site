@@ -25,7 +25,7 @@ export const blogArticles: BlogArticle[] = [
       "The Right Climate: Understanding Temperature & Humidity for Houseplants",
     description:
       "Create the ideal indoor climate for your plants by mastering temperature and humidity requirements.",
-    image: "/humidity-tray.png", // Updated to existing image
+    image: "./humidity-tray.png", // Updated to existing image
     category: "Plant Care",
     date: "May 14, 2024",
     tags: ["Temperature", "Humidity", "Climate", "Indoor Plants"],

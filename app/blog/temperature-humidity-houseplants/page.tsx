@@ -7,7 +7,7 @@ export default function TemperatureHumidityHouseplantsPage() {
       slug="temperature-humidity-houseplants"
       title="Temperature & Humidity Control: Creating the Perfect Indoor Climate for Houseplants"
       description="Master temperature and humidity management to create optimal growing conditions for your houseplants year-round."
-      image="/humidity-tray.png"
+      image="./humidity-tray.png"
       category="Plant Care"
       date="May 14, 2024"
       tags={["Temperature", "Humidity", "Climate", "Indoor Plants"]}
