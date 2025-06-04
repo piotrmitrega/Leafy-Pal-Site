@@ -12,10 +12,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  output: "standalone",
+  output: "export",
   basePath: isGitHubPages ? "/Leafy-Pal-Site" : "",
-  assetPrefix: isGitHubPages ? "/Leafy-Pal-Site" : "",
-  trailingSlash: true,
+  assetPrefix: isGitHubPages ? "/Leafy-Pal-Site/" : "",
 };
 
 export default nextConfig;
