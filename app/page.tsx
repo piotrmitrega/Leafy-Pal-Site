@@ -838,7 +838,7 @@ export default function Home() {
               >
                 <div className="relative h-48 overflow-hidden">
                   <Image
-                    src="/soil-and-repotting-hero.png"
+                    src="/repotting-process.png"
                     alt="Grounded in Growth: Understanding Soil and Repotting"
                     fill
                     className="object-cover transition-transform group-hover:scale-105"
