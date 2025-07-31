@@ -6,7 +6,7 @@ export default function PlantHealthDiagnosticsPage() {
       slug="plant-health-diagnostics"
       title="Plant Health Diagnostics: Complete Guide to Reading Plant Signals"
       description="Master the art of plant diagnostics with our comprehensive guide to identifying, diagnosing, and treating common plant health issues through visual cues."
-      image="./plant-diagnosis.png"
+      image="/plant-diagnosis.png"
       category="Plant Care"
       date="May 15, 2023"
       tags={["plant health", "diagnostics", "plant care", "troubleshooting"]}

@@ -39,7 +39,7 @@ export function SiteLayout({
             <div className="flex items-center gap-2">
               <Link href="/" className="h-10 w-10 relative">
                 <Image
-                  src="./logo.svg"
+                  src="/logo.svg"
                   alt={t("common.logoAlt", language)}
                   fill
                   className="object-contain"

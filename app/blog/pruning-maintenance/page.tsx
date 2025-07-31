@@ -6,7 +6,7 @@ export default function PruningMaintenancePage() {
     <BlogPostLayout
       slug="pruning-maintenance"
       title="Shaping Beauty and Health: The Art of Pruning and Maintenance"
-      image="./pruning-maintenance-hero.png"
+      image="/pruning-maintenance-hero.png"
       category="Plant Care"
       date="May 13, 2024"
       heroAlt="Person pruning a houseplant with precision scissors"
@@ -25,7 +25,7 @@ export default function PruningMaintenancePage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <img
-          src="./pruning-tools-layout.png"
+          src="/pruning-tools-layout.png"
           alt="Various pruning tools laid out including scissors, pruners, and shears"
           className="w-full h-full object-cover"
         />
@@ -92,7 +92,7 @@ export default function PruningMaintenancePage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <img
-          src="./pruning-pothos.png"
+          src="/pruning-pothos.png"
           alt="Hands pruning a pothos vine"
           className="w-full h-full object-cover"
         />
@@ -288,7 +288,7 @@ export default function PruningMaintenancePage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <img
-          src="./monstera-moss-pole.png"
+          src="/monstera-moss-pole.png"
           alt="Monstera plant trained to grow up a moss pole"
           className="w-full h-full object-cover"
         />

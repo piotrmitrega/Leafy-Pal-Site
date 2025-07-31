@@ -26,7 +26,7 @@ export default function PlantLightRequirementsPage() {
           <article className="prose prose-lg max-w-none">
             <div className="relative h-[400px] w-full mb-8 rounded-xl overflow-hidden">
               <Image
-                src="./plant-sunlight.png"
+                src="/plant-sunlight.png"
                 alt="Plant light requirements"
                 fill
                 className="object-cover"
@@ -122,7 +122,7 @@ export default function PlantLightRequirementsPage() {
 
             <div className="relative h-[300px] w-full my-8 rounded-lg overflow-hidden">
               <Image
-                src="./window-light-directions.png"
+                src="/window-light-directions.png"
                 alt="Window light directions for plants"
                 fill
                 className="object-cover"

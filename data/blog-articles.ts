@@ -14,7 +14,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Plant Health Diagnostics: Complete Guide to Reading Plant Signals",
     description:
       "Learn to interpret your plants' visual cues to diagnose problems and provide timely, effective care.",
-    image: "./plant-diagnosis.png", // Updated to existing image
+    image: "/plant-diagnosis.png", // Updated to existing image
     category: "Plant Health",
     date: "May 15, 2024",
     tags: ["Plant Health", "Diagnostics", "Troubleshooting", "Plant Care"],
@@ -25,7 +25,7 @@ export const blogArticles: BlogArticle[] = [
       "The Right Climate: Understanding Temperature & Humidity for Houseplants",
     description:
       "Create the ideal indoor climate for your plants by mastering temperature and humidity requirements.",
-    image: "./humidity-tray.png", // Updated to existing image
+    image: "/humidity-tray.png", // Updated to existing image
     category: "Plant Care",
     date: "May 14, 2024",
     tags: ["Temperature", "Humidity", "Climate", "Indoor Plants"],
@@ -35,7 +35,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Shaping Beauty and Health: The Art of Pruning and Maintenance",
     description:
       "Master the techniques of pruning and regular maintenance to keep your plants healthy and beautiful.",
-    image: "./pruning-maintenance-hero.png", // Updated to existing image
+    image: "/pruning-maintenance-hero.png", // Updated to existing image
     category: "Plant Care",
     date: "May 13, 2024",
     tags: ["Pruning", "Maintenance", "Plant Care", "Growth"],
@@ -45,7 +45,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Nourishing Growth: The Principles of Fertilization",
     description:
       "Understand the science of plant nutrition and learn how to properly fertilize different types of houseplants.",
-    image: "./fertilization-principles-hero.png", // Updated to existing image
+    image: "/fertilization-principles-hero.png", // Updated to existing image
     category: "Plant Care",
     date: "May 11, 2024",
     tags: ["Fertilization", "Plant Nutrition", "Growth", "Houseplants"],
@@ -55,7 +55,7 @@ export const blogArticles: BlogArticle[] = [
     title: "The Essential Guide to Watering Your Indoor Plants",
     description:
       "Learn the art of proper watering techniques for different plant types to keep your indoor garden thriving.",
-    image: "./watering-houseplants-technique.png", // Updated to existing image
+    image: "/watering-houseplants-technique.png", // Updated to existing image
     category: "Plant Care",
     date: "May 10, 2024",
     tags: ["Watering", "Indoor Plants", "Plant Care", "Techniques"],
@@ -65,7 +65,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Illuminating Growth: Understanding Plant Light Requirements",
     description:
       "Discover how to provide the optimal light conditions for your houseplants based on their specific needs.",
-    image: "./plant-sunlight.png", // Updated to existing image
+    image: "/plant-sunlight.png", // Updated to existing image
     category: "Plant Care",
     date: "May 10, 2024",
     tags: ["Light", "Plant Growth", "Indoor Plants", "Care Tips"],
@@ -75,7 +75,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Grounded in Growth: Understanding Soil and Repotting",
     description:
       "Master the essentials of soil selection and repotting techniques to give your plants a strong foundation.",
-    image: "./repotting-process.png", // Updated to existing image
+    image: "/repotting-process.png", // Updated to existing image
     category: "Plant Care",
     date: "May 10, 2024",
     tags: ["Soil", "Repotting", "Plant Growth", "Potting Mix"],
@@ -85,7 +85,7 @@ export const blogArticles: BlogArticle[] = [
     title: "The Science Behind Plant Air Purification",
     description:
       "Explore how plants improve indoor air quality by removing toxins and releasing oxygen.",
-    image: "./plant-air-purification-hero.png", // Updated to existing image
+    image: "/plant-air-purification-hero.png", // Updated to existing image
     category: "Plant Science",
     date: "May 8, 2024",
     tags: ["Air Purification", "Indoor Air Quality", "Plant Science", "Health"],
@@ -95,7 +95,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Designing Your Home with Plants: Aesthetic and Functional Tips",
     description:
       "Discover how to enhance your home's aesthetics and functionality with strategic plant placement.",
-    image: "./designing-home-plants-hero.png", // Updated to existing image
+    image: "/designing-home-plants-hero.png", // Updated to existing image
     category: "Home Design",
     date: "May 8, 2024",
     tags: ["Home Design", "Interior Decor", "Plant Placement", "Aesthetics"],
@@ -105,7 +105,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Understanding Plant Toxicity: Keeping Pets and Children Safe",
     description:
       "Learn which plants are toxic and how to create a safe environment for your family and pets.",
-    image: "./plant-toxicity-hero.png", // Updated to existing image
+    image: "/plant-toxicity-hero.png", // Updated to existing image
     category: "Plant Safety",
     date: "May 8, 2024",
     tags: ["Plant Toxicity", "Pet Safety", "Child Safety", "Indoor Plants"],
@@ -115,7 +115,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Creating a Plant Care Routine for Busy Individuals",
     description:
       "Learn how to maintain healthy plants even with a hectic schedule through structured routines and smart tools.",
-    image: "./plant-care-busy.png", // Updated to existing image
+    image: "/plant-care-busy.png", // Updated to existing image
     category: "Plant Care",
     date: "May 5, 2024",
     tags: ["Plant Care", "Routines", "Time Management", "Busy Lifestyle"],
@@ -125,7 +125,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Top 10 Allergy-Friendly Houseplants",
     description:
       "Discover plants that purify the air without triggering allergies for a healthier home environment.",
-    image: "./allergy-friendly-plants-hero.png", // Updated to existing image
+    image: "/allergy-friendly-plants-hero.png", // Updated to existing image
     category: "Plant Health",
     date: "May 3, 2024",
     tags: ["Allergy-Friendly", "Houseplants", "Air Quality", "Health"],
@@ -136,7 +136,7 @@ export const blogArticles: BlogArticle[] = [
       "What's Wrong With My Plant? 5 Common Houseplant Diseases and How to Treat Them",
     description:
       "Learn to identify and treat the most common plant diseases to keep your indoor jungle healthy.",
-    image: "./thrips-damage-leaf.png", // Updated to existing image
+    image: "/thrips-damage-leaf.png", // Updated to existing image
     category: "Plant Health",
     date: "April 25, 2024",
     tags: ["Plant Diseases", "Troubleshooting", "Plant Health", "Treatment"],
@@ -146,7 +146,7 @@ export const blogArticles: BlogArticle[] = [
     title: "The Ultimate Guide to Choosing Pet-Safe Houseplants",
     description:
       "Learn which plants are safe for your furry friends and how to create a pet-friendly indoor garden.",
-    image: "./pet-safe-houseplants.png", // Updated to existing image
+    image: "/pet-safe-houseplants.png", // Updated to existing image
     category: "Plant Safety",
     date: "April 19, 2024",
     tags: ["Pet-Safe Plants", "Pet Owners", "Indoor Garden", "Safety"],
@@ -156,7 +156,7 @@ export const blogArticles: BlogArticle[] = [
     title: "Understanding Plant Lighting: A Complete Guide",
     description:
       "Learn how to assess your home's light conditions and choose plants that will thrive in them.",
-    image: "./window-light-directions.png", // Updated to existing image
+    image: "/window-light-directions.png", // Updated to existing image
     category: "Plant Care",
     date: "April 16, 2024",
     tags: [
@@ -171,7 +171,7 @@ export const blogArticles: BlogArticle[] = [
     title: "How to Spot and Treat the Most Common Houseplant Pests",
     description:
       "Learn to identify and effectively treat common pests that can damage your indoor plants.",
-    image: "./mealybugs-on-stem.png", // Updated to existing image
+    image: "/mealybugs-on-stem.png", // Updated to existing image
     category: "Plant Health",
     date: "April 13, 2024",
     tags: ["Pests", "Plant Health", "Treatment", "Identification"],
@@ -181,7 +181,7 @@ export const blogArticles: BlogArticle[] = [
     title: "10 Low-Light Plants That Will Thrive in Your Apartment",
     description:
       "Discover plants that don't need much sunlight but still look amazing.",
-    image: "./low-light-houseplants.png", // Updated to existing image
+    image: "/low-light-houseplants.png", // Updated to existing image
     category: "Plant Types",
     date: "April 4, 2024",
     tags: ["Low Light", "Apartment Plants", "Indoor Plants", "Plant Types"],

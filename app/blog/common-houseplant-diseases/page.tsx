@@ -7,7 +7,7 @@ export default function CommonHouseplantDiseasesPage() {
       slug="common-houseplant-diseases"
       title="Common Houseplant Diseases and How to Treat Them"
       description="Learn to identify and treat the most common diseases that affect indoor plants, from fungal infections to bacterial problems."
-      image="./thrips-damage-leaf.png"
+      image="/thrips-damage-leaf.png"
       category="Plant Health"
       date="April 15, 2024"
       tags={["Plant Diseases", "Plant Health", "Treatment", "Prevention"]}
@@ -42,7 +42,7 @@ export default function CommonHouseplantDiseasesPage() {
 
       <div className="relative w-full h-[300px] my-8 rounded-xl overflow-hidden">
         <Image
-          src="./fungal-disease.png"
+          src="/fungal-disease.png"
           alt="Busy person with plants"
           fill
           className="object-cover"
@@ -93,7 +93,7 @@ export default function CommonHouseplantDiseasesPage() {
 
       <div className="relative w-full h-[300px] my-8 rounded-xl overflow-hidden">
         <Image
-          src="./diseased-plant-leaf.png"
+          src="/diseased-plant-leaf.png"
           alt="Busy person with plants"
           fill
           className="object-cover"
@@ -136,7 +136,7 @@ export default function CommonHouseplantDiseasesPage() {
 
       <div className="relative w-full h-[300px] my-8 rounded-xl overflow-hidden">
         <Image
-          src="./bacterial-disease.png"
+          src="/bacterial-disease.png"
           alt="Busy person with plants"
           fill
           className="object-cover"
@@ -212,7 +212,7 @@ export default function CommonHouseplantDiseasesPage() {
 
       <div className="relative w-full h-[300px] my-8 rounded-xl overflow-hidden">
         <Image
-          src="./mosaic-virus.png"
+          src="/mosaic-virus.png"
           alt="Busy person with plants"
           fill
           className="object-cover"

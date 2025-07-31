@@ -41,7 +41,7 @@ export default function DesigningHomeWithPlantsPage() {
 
           <div className="relative h-[400px] w-full mb-8 rounded-xl overflow-hidden">
             <Image
-              src="./designing-home-plants-hero.png"
+              src="/designing-home-plants-hero.png"
               alt="Beautifully designed living room with plants"
               fill
               className="object-cover"
@@ -74,7 +74,7 @@ export default function DesigningHomeWithPlantsPage() {
 
             <div className="relative h-[300px] w-full my-8 rounded-xl overflow-hidden">
               <Image
-                src="./design-ideas.png"
+                src="/design-ideas.png"
                 alt="Room with plants complementing the color scheme"
                 fill
                 className="object-cover"
@@ -136,7 +136,7 @@ export default function DesigningHomeWithPlantsPage() {
 
             <div className="relative h-[300px] w-full my-8 rounded-xl overflow-hidden">
               <Image
-                src="./functional-benefits.png"
+                src="/functional-benefits.png"
                 alt="Room with plants complementing the color scheme"
                 fill
                 className="object-cover"
@@ -180,7 +180,7 @@ export default function DesigningHomeWithPlantsPage() {
 
             <div className="relative h-[300px] w-full my-8 rounded-xl overflow-hidden">
               <Image
-                src="./plants-benefits.png"
+                src="/plants-benefits.png"
                 alt="Plants helping with room acoustics"
                 fill
                 className="object-cover"

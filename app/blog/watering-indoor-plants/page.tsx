@@ -37,7 +37,7 @@ export default function WateringIndoorPlantsPage() {
 
             <div className="relative h-[400px] w-full mb-8 rounded-xl overflow-hidden">
               <Image
-                src="./watering-houseplants-technique.png"
+                src="/watering-houseplants-technique.png"
                 alt="Watering indoor plants"
                 fill
                 className="object-cover"
@@ -81,7 +81,7 @@ export default function WateringIndoorPlantsPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
               <div className="relative h-60 rounded-lg overflow-hidden">
                 <Image
-                  src="./succulents-watering.png"
+                  src="/succulents-watering.png"
                   alt="Succulents and cacti watering"
                   fill
                   className="object-cover"
@@ -119,7 +119,7 @@ export default function WateringIndoorPlantsPage() {
               </div>
               <div className="relative h-60 rounded-lg overflow-hidden">
                 <Image
-                  src="./tropical-plants-watering.png"
+                  src="/tropical-plants-watering.png"
                   alt="Tropical foliage plants watering"
                   fill
                   className="object-cover"
@@ -130,7 +130,7 @@ export default function WateringIndoorPlantsPage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
               <div className="relative h-60 rounded-lg overflow-hidden">
                 <Image
-                  src="./flowering-plants-watering.png"
+                  src="/flowering-plants-watering.png"
                   alt="Flowering plants watering"
                   fill
                   className="object-cover"
@@ -279,7 +279,7 @@ export default function WateringIndoorPlantsPage() {
 
             <div className="relative h-[300px] w-full my-8 rounded-lg overflow-hidden">
               <Image
-                src="./watering-techniques.png"
+                src="/watering-techniques.png"
                 alt="Various watering techniques for indoor plants"
                 fill
                 className="object-cover"

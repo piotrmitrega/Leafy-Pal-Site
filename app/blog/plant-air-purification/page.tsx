@@ -8,7 +8,7 @@ export default function PlantAirPurificationPage() {
       date="May 8, 2024"
       category="Plant Science"
       slug="plant-air-purification"
-      image="./plant-air-purification-hero.png"
+      image="/plant-air-purification-hero.png"
       heroAlt="Plants purifying indoor air"
       tags={[
         "Air Purification",
@@ -37,7 +37,7 @@ export default function PlantAirPurificationPage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <Image
-          src="./plant-photosynthesis.png"
+          src="/plant-photosynthesis.png"
           alt="Diagram showing the photosynthesis process in plants"
           fill
           className="object-cover"
@@ -63,7 +63,7 @@ export default function PlantAirPurificationPage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <Image
-          src="./plant-phytoremediation.png"
+          src="/plant-phytoremediation.png"
           alt="Illustration of plants removing toxins from the air"
           fill
           className="object-cover"
@@ -114,7 +114,7 @@ export default function PlantAirPurificationPage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <Image
-          src="./rubber-plant-air.png"
+          src="/rubber-plant-air.png"
           alt="Rubber plant with large glossy leaves"
           fill
           className="object-cover"
@@ -132,7 +132,7 @@ export default function PlantAirPurificationPage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <Image
-          src="./bamboo-palm-air.png"
+          src="/bamboo-palm-air.png"
           alt="Bamboo palm with feathery fronds"
           fill
           className="object-cover"
@@ -150,7 +150,7 @@ export default function PlantAirPurificationPage() {
 
       <div className="relative w-full h-64 my-8 rounded-xl overflow-hidden">
         <Image
-          src="./snake-plant.png"
+          src="/snake-plant.png"
           alt="Snake plant with tall, upright leaves"
           fill
           className="object-cover"
